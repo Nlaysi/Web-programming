@@ -249,3 +249,14 @@ label input {
 .delM:hover {
     color: darkred;
 }
+
+#contacts {
+    height: 100px;
+}
+
+#contacts img {
+    margin: auto;
+    display: block;
+    height: 50px;
+    width: 50px;
+}
